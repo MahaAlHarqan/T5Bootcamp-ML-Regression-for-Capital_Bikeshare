@@ -36,10 +36,10 @@ This data has 17,379 rows, 14 columns.
 - Zoom
 
 # Questions:
-- What is the busiest day for cycling, and was it during a holiday?
 - What are the most crowded days and what time was it?
-- Is there a relationship between the weather and casual users?
-- If it is a working day, does the season affect the total users?
+- What is the difference between registered and casual users?
+- How does the season affect the number of users?
+- Did the low temperature in winter affect the registered users?
 #### Prediction Question:
 - Can we predict the total users based on season, day of the week, weather type, temperature and humidity?
 
