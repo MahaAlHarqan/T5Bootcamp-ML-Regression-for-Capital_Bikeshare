@@ -46,7 +46,7 @@ This data has 17,379 rows, 14 columns.
 - Did the low temperature in winter affect the registered users and casual users?
 
 # Algorithms:
-- Linear Regression
+
 - Time Series Data
 
 # MVP:
