@@ -7,6 +7,9 @@ Data Society.
 - Link: [data.world](https://data.world/data-society/capital-bikeshare-2011-2012).
 - Or you can download it from the attached file.
 
+# Business Problem:
+Predict the total users that depends on time.
+
 # Dataset Description:
 This data has 17,379 rows, 14 columns.
 
