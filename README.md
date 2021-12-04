@@ -35,12 +35,12 @@ This data has 17,379 rows, 14 columns.
 - Trello
 - Zoom
 
-# What are the most crowded days and what time was it?
+# Questions:
+
+What are the most crowded days and what time was it?
 What is the difference between registered and casual users?
 How does the season affect the number of users?
-Did the low temperature in winter affect the registered users?
-Prediction Question:
-Can we predict the total users based on season, temperature, Hour, Registered Users, Casual Users.
+Did the low temperature in winter affect the registered users and casual users?
 
 # Algorithms:
 - Linear Regression
